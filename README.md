@@ -13,7 +13,7 @@
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-💬 Ask me about **Mobile application development | React Native | Javascript | Typescript**
+💬 Ask me about **Mobile application development | React Native | ReactJS | Javascript | Typescript**
 
 📫 How to reach me **aanchalarora392@gmail.com**
 
