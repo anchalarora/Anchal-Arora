@@ -9,8 +9,6 @@
 
 🔭 I’m currently working on **Meal Mingle App** using React.js, and Tailwind CSS , Redux Toolkit <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🏫 I’m currently learning **React JS development**
-
 🔎 I’m actively looking to collaborate on **Open source Project**
 
 💬 Ask me about **Mobile/Web application development | React Native | ReactJS | Javascript | Typescript**
